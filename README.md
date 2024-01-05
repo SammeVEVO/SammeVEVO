@@ -4,4 +4,4 @@
 
 -=- Repos on my profile are private till the end of my school year (in a few weeks) many of them are incomplete or a mess.
 
--=- If you wanna reach me, shoot me a message on discord: @`samme`.  I'm also reachable on twitter @ SammeVEVO_
+-=- If you wanna reach me, shoot me a message on discord: @samme.  I'm also reachable on twitter @ SammeVEVO_
