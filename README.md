@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
