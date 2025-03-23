@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-=- Currenlty I am in my Second year of Software Engineering. I have a background in systems & hosting and currently am working in that field.<br><br>-=- Repos on my profile are private till the end of my school year (in a few weeks) many of them are incomplete or a mess.</p>
+<p align="left">-=- Currenlty I am in my Third year of my Software Engineering bachelor. I have a background in systems & hosting so feel free to talk about that stuff with me :D<br><br></p>
 
 ###
 
